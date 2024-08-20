@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "458351657976",
+    "project_id": "inoice-142a0",
+    "storage_bucket": "inoice-142a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458351657976:android:fab3fee5d8a57bf6924c0d",
+        "android_client_info": {
+          "package_name": "com.example.tcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458351657976-dh86gmobku6rrfal9e84k44vk3sj5ika.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnC2T7eH33KhJxdSgHmjjVlDxvv_m9GJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458351657976-cnukep7blb5j0dngq4vfhsq8t5p56iom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458351657976-lcuog1eg3h44vomqauve01tlvr1rhct0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tcs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
